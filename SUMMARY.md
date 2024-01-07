@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Intro](intro.md)
 * [Up & Going](up-and-going.md)
 * [Scope & Closures](scope-and-closures.md)
