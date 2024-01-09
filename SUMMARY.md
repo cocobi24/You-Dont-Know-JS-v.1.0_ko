@@ -1,12 +1,16 @@
 # Table of contents
 
 * [Preface](preface.md)
+
+
 * [Up & Going](up&going/README.md)
   * [Foreword](up&going/foreword.md) (by [Jenn Lukas](http://jennlukas.com))
   * [Chapter 1: Into Programming](up&going/ch1.md)
   * [Chapter 2: Into JavaScript](up&going/ch2.md)
   * [Chapter 3: Into YDKJS](up&going/ch3.md)
   * [Appendix A: Thank You's!](up&going/apA.md)
+
+
 * [Scope & Closures](scope&closures/README.md)
   * [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
   * [Chapter 1: What is Scope?](scope&closures/ch1.md)
@@ -18,6 +22,8 @@
   * [Appendix B: Polyfilling Block Scope](scope&closures/apB.md)
   * [Appendix C: Lexical-this](scope&closures/apC.md)
   * [Appendix D: Thank You's!](scope&closures/apD.md)
+
+
 * [this & Object Prototypes](this&object-prototypes/README.md)
   * [Foreword](this&object-prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))
   * [Chapter 1: *this* Or That?](this&object-prototypes/ch1.md)
@@ -28,6 +34,8 @@
   * [Chapter 6: Behavior Delegation](this&object-prototypes/ch6.md)
   * [Appendix A: ES6 *class*](this&object-prototypes/apA.md)
   * [Appendix B: Thank You's!](this&object-prototypes/apB.md)
+
+
 * [Types & Grammar](types&grammar/README.md)
   * [Foreword](types&grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))
   * [Chapter 1: Types](types&grammar/ch1.md)
@@ -37,6 +45,8 @@
   * [Chapter 5: Grammar](types&grammar/ch5.md)
   * [Appendix A: Mixed Environment JavaScript](types&grammar/apA.md)
   * [Appendix B: Thank You's!](types&grammar/apB.md)
+
+
 * [Async & Performance](async&performance/README.md)
   * [Foreword](async&performance/foreword.md) (by [Jake Archibald](http://jakearchibald.com))
   * [Chapter 1: Asynchrony: Now & Later](async&performance/ch1.md)
@@ -48,4 +58,16 @@
   * [Appendix A: Library: asynquence](async&performance/apA.md)
   * [Appendix B: Advanced Async Patterns](async&performance/apB.md)
   * [Appendix C: Thank You's!](async&performance/apC.md)
+
+
 * [ES6 & Beyond](es6&beyond/README.md)
+  * [Foreword](es6&beyond/foreword.md) (by [Rick Waldron](http://bocoup.com/weblog/author/rick-waldron/))
+  * [Chapter 1: ES? Now & Future](es6&beyond/ch1.md)
+  * [Chapter 2: Syntax](es6&beyond/ch2.md)
+  * [Chapter 3: Organization](es6&beyond/ch3.md)
+  * [Chapter 4: Async Flow Control](es6&beyond/ch4.md)
+  * [Chapter 5: Collections](es6&beyond/ch5.md)
+  * [Chapter 6: API Additions](es6&beyond/ch6.md)
+  * [Chapter 7: Meta Programming](es6&beyond/ch7.md)
+  * [Chapter 8: Beyond ES6](es6&beyond/ch8.md)
+  * [Appendix A: Thank You's!](es6&beyond/apA.md)
