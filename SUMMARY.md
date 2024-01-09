@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](intro.md)
+* [Preface](preface.md)
 * [Up & Going](up&going/README.md)
 * [Scope & Closures](scope&closures/README.md)
 * [this & Object Prototypes](this&object-prototypes/README.md)
