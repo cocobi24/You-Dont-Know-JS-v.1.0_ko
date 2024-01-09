@@ -29,6 +29,15 @@
   * [Appendix A: ES6 *class*](this&object-prototypes/apA.md)
   * [Appendix B: Thank You's!](this&object-prototypes/apB.md)
 * [Types & Grammar](types&grammar/README.md)
+  * [Foreword](types&grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))
+  * [Chapter 1: Types](types&grammar/ch1.md)
+  * [Chapter 2: Values](types&grammar/ch2.md)
+  * [Chapter 3: Natives](types&grammar/ch3.md)
+  * [Chapter 4: Coercion](types&grammar/ch4.md)
+  * [Chapter 5: Grammar](types&grammar/ch5.md)
+  * [Appendix A: Mixed Environment JavaScript](types&grammar/apA.md)
+  * [Appendix B: Thank You's!](types&grammar/apB.md)
+
 * [Async & Performance](async&performance/README.md)
 * [ES6 & Beyond](es6&beyond/README.md)
 
