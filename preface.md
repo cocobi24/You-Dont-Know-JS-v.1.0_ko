@@ -1,21 +1,22 @@
 # You Don't Know JS
-# Preface
+# 서문
 
-I'm sure you noticed, but "JS" in the book series title is not an abbreviation for words used to curse about JavaScript, though cursing at the language's quirks is something we can probably all identify with!
+여러분도 알고있으리라 확신지만, 책 시리즈 제목의 "JS"는 자바스크립트를 욕하는데 사용하는 단어의 약어가 아닙니다. 하지만 자바스크립트의 특이한 점들에 대해 저주하는 것은 공감할 수 있을 것 입니다!
 
-From the earliest days of the web, JavaScript has been a foundational technology that drives interactive experience around the content we consume. While flickering mouse trails and annoying pop-up prompts may be where JavaScript started, nearly 2 decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world's most widely available software platform: the web.
+웹의 초창기부터 자바스크립트는 우리가 소비하는 콘텐츠를 중심으로 상호 작용하는 경험을 이끌어내는 근본적인 기능이었습니다. 깜빡이는 마우스의 흔적과 성가신 팝업 프롬프트가 자바스크립트의 시작점일지도 모릅니다. 하지만 자바스크립트가 시작된 지난 20년간 자바스크립트의 기술과 능력은 계속해서 성장했고, 오늘날 세계에서 가장 많이 사용되는 소프트웨어 플랫폼인 웹의 핵심에 자리잡게 되었습니다.
 
-But as a language, it has perpetually been a target for a great deal of criticism, owing partly to its heritage but even more to its design philosophy. Even the name evokes, as Brendan Eich once put it, "dumb kid brother" status next to its more mature older brother "Java". But the name is merely an accident of politics and marketing. The two languages are vastly different in many important ways. "JavaScript" is as related to "Java" as "Carnival" is to "Car".
+하지만 언어로서의 자바스크립트는 지속적으로 많은 비판의 대상이 되어 왔는데, 그러한 이유는 자바스크립트의 전통과 철학 때문입니다. 심지어 자바스크립트라는 이름조차도 브렌단 아이크(Brendan Eich)가 말했듯이, 성숙한 형 "자바" 옆에 "멍청한 동생"이라는 이미지를 떠오르게 합니다. 하지만 이 이름은 단지 정치와 마케팅의 산물일 뿐입니다. 두 언어는 많은 점에서 크게 다릅니다. " *Java* "와 " *Java* script"는 " *Car* "와  " *Car* nival"의 관계와 같이 관련이 없습니다.
 
-Because JavaScript borrows concepts and syntax idioms from several languages, including proud C-style procedural roots as well as subtle, less obvious Scheme/Lisp-style functional roots, it is exceedingly approachable to a broad audience of developers, even those with just little to no programming experience. The "Hello World" of JavaScript is so simple that the language is inviting and easy to get comfortable with in early exposure.
+자바스크립트는 C 언어 스타일의 절차 지향 뿐만 아니라 미묘하고 명백하지 않은 Scheme/Lisp 스타일의 함수형과 같이 여러 언어의 개념과 문법을 차용했기 때문에, 프로그래밍 경험이 없거나 적은 개발자들도 쉽게 접근할 수 있습니다. 또한, 자바스크립트의 "Hello World"는 매우 간단하여 편안함을 느낄 수 있습니다.
 
-While JavaScript is perhaps one of the easiest languages to get up and running with, its eccentricities make solid mastery of the language a vastly less common occurrence than in many other languages. Where it takes a pretty in-depth knowledge of a language like C or C++ to write a full-scale program, full-scale production JavaScript can, and often does, barely scratch the surface of what the language can do.
+자바스크립트는 아마도 가장 쉽게 시작하고 실행할 수 있는 언어 중 하나이지만, 언어의 별난점으로 인해 다른 언어들에 비해 완전히 마스터하는 일이 훨씬 더 드물다는 결과를 가져옵니다. C나 C++와 같은 언어로 full-scale 프로그램을 작성하기 위해서는 깊은 지식이 필요하지만, 자바스크립트로 프로그램을 작성하는 데에는 표먼적인 지식만 있어도 가능할 수 있습니다.
 
-Sophisticated concepts which are deeply rooted into the language tend instead to surface themselves in *seemingly* simplistic ways, such as passing around functions as callbacks, which encourages the JavaScript developer to just use the language as-is and not worry too much about what's going on under the hood.
+언어에 깊게 뿌리를 둔 정교한 개념들은 *단순해 보이는* 방식으로 표면화 되는 경향이 있습니다. 함수를 콜백으로 전달하는 것과 같이, 자바스크립트 개발자에게 언어를 있는 그대로 사용하고 내부 동작에 대해 걱정하지 않도록 장려합니다.
 
-It is simultaneously a simple, easy-to-use language that has broad appeal, and a complex and nuanced collection of language mechanics which without careful study will elude *true understanding* even for the most seasoned of JavaScript developers.
+이는 동시에 널리 사용되는 간단하고 사용하기 쉬운 언어이면서, 복잡하고 미묘한 언어 메커니즘의 집합이기도 합니다. 주의깊은 공부 없이는 경험이 풍부한 자바스크립트 개발자조차도 *진정한 이해*를 얻기 어려울 수 있습니다.
 
-Therein lies the paradox of JavaScript, the Achilles' Heel of the language, the challenge we are presently addressing. Because JavaScript *can* be used without understanding, the understanding of the language is often never attained.
+바로 여기에 자바스크립트의 역설, 아킬레스건, 현재 우리에게 주어진 과제가 있습니다. 자바스크립트는 이해하지 않은 채 *사용할 수* 있기 때문에 언어를 이해하지 못하는 경우가 많습니다.
+
 
 ## Mission
 
