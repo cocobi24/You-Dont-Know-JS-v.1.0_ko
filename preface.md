@@ -18,21 +18,21 @@
  바로 여기에 자바스크립트의 역설, 아킬레스건, 현재 우리에게 주어진 과제가 있습니다. 자바스크립트는 이해하지 않은 채 *사용할 수* 있기 때문에 언어를 이해하지 못하는 경우가 많습니다.
 
 
-## Mission
+## 목표
+자바스크립트에서 놀라움이나 좌절감을 느낄 때마다 블랙리스트에 추가하는 것이 익숙한 반응이라면, 여러분은 곧 자바스크립트의 풍요로움을 속 빈 껍데기로만 느끼게 될 것입니다.
 
-If at every point that you encounter a surprise or frustration in JavaScript, your response is to add it to the blacklist, as some are accustomed to doing, you soon will be relegated to a hollow shell of the richness of JavaScript.
+이 하위 집합은 '좋은 부분'이라는 이름으로 유명하지만, 독자 여러분, 그 대신 '쉬운 부분', '안전한 부분', 심지어 '불완전한 부분'이라고 생각해 주시기를 간곡히 부탁드립니다.
 
-While this subset has been famously dubbed "The Good Parts", I would implore you, dear reader, to instead consider it the "The Easy Parts", "The Safe Parts", or even "The Incomplete Parts".
+*You Don't Know JavaScript* 책 시리즈는 반대의 도전을 제안합니다. 자바스크립트의 *모든* 부분, 특히 "어려운 부분"을 배우고 깊이 이해하는 것입니다.
 
-This *You Don't Know JavaScript* book series offers a contrary challenge: learn and deeply understand *all* of JavaScript, even and especially "The Tough Parts".
+이 책에서는 JS 개발자가 언어가 어떻게, 왜 그런 식으로 동작하는지 정확히 배우려고 애쓰지 않고 그냥 지나칠 수 있을 만큼만 배우려는 경향을 정면으로 다루고 있습니다. 또한, 길이 험해지면 '후퇴'하라는 일반적인 조언을 피합니다.
 
-Here, we address head on the tendency of JS developers to learn "just enough" to get by, without ever forcing themselves to learn exactly how and why the language behaves the way it does. Furthermore, we eschew the common advice to *retreat* when the road gets rough.
+저는 무언가가 '그냥' 작동한다고 해서 '왜' 작동하는지도 모른 채 멈추는 것에 만족하지 않으며, 여러분도 그렇게 해서는 안 됩니다. 저는 여러분이 그 울퉁불퉁한 '가보지 않은 길'을 따라가면서 자바스크립트가 할 수 있는 모든 것을 받아들일 것을 조심스럽게 권합니다. 그 지식만 있으면 어떤 기술, 프레임워크, 금주의 인기 있는 유행어 약어도 이해하지 못할 것이 없습니다.
 
-I am not content, nor should you be, at stopping once something *just works*, and not really knowing *why*. I gently challenge you to journey down that bumpy "road less traveled" and embrace all that JavaScript is and can do. With that knowledge, no technique, no framework, no popular buzzword acronym of the week, will be beyond your understanding.
+이 책들은 각각 가장 일반적으로 오해되거나 이해가 부족한 언어의 특정 핵심 부분을 다루며, 매우 깊고 철저하게 파고듭니다. 이론적인 부분뿐만 아니라 실용적인 "알아야 할 내용"에 대해서도 이해했다는 확고한 자신감을 가지고 책을 읽어야 합니다.
 
-These books each take on specific core parts of the language which are most commonly misunderstood or under-understood, and dive very deep and exhaustively into them. You should come away from reading with a firm confidence in your understanding, not just of the theoretical, but the practical "what you need to know" bits.
+*지금* 여러분이 알고 있는 자바스크립트는 아마도 불완전한 이해로 인해 상처를 입은 다른 사람들이 전수해 준 *'일부'*일 것입니다. *그런 자바스크립트는 진정한 언어의 그림자에 불과합니다. 여러분은 아직 자바스크립트를 *진짜로* 알지 못하지만, 이 시리즈를 파고들면 *알게 될* 것입니다. 계속 읽어보세요. 자바스크립트가 여러분을 기다립니다.
 
-The JavaScript you know *right now* is probably *parts* handed down to you by others who've been burned by incomplete understanding. *That* JavaScript is but a shadow of the true language. You don't *really* know JavaScript, *yet*, but if you dig into this series, you *will*. Read on, my friends. JavaScript awaits you.
 
 
 ## 요약
