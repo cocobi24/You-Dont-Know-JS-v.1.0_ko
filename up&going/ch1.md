@@ -1,19 +1,19 @@
 # You Don't Know JS: Up & Going
-# Chapter 1: Into Programming
+# 1장: 프로그래밍 시작하기
 
-Welcome to the *You Don't Know JS* (*YDKJS*) series.
+*You Don't Know JS* (*YDKJS*) 시리즈에 오신 것을 환영합니다.
 
-*Up & Going* is an introduction to several basic concepts of programming -- of course we lean toward JavaScript (often abbreviated JS) specifically -- and how to approach and understand the rest of the titles in this series. Especially if you're just getting into programming and/or JavaScript, this book will briefly explore what you need to get *up and going*.
+*Up & Going*에서는 프로그래밍의 몇 가지 기본 개념 (물론 JavaScript(흔히 JS로 축약됨)를 중심으로 설명합니다) 과 이 시리즈의 나머지 타이틀에 대해 접근하고 이해하는 방법을 소개합니다. 특히 프로그래밍 및/또는 자바스크립트를 이제 막 시작하는 분이라면 이 책에서 '시작'하는 데 필요한 내용을 간략하게 살펴볼 수 있습니다.
 
-This book starts off explaining the basic principles of programming at a very high level. It's mostly intended if you are starting *YDKJS* with little to no prior programming experience, and are looking to these books to help get you started along a path to understanding programming through the lens of JavaScript.
+이 책은 매우 높은 수준에서 프로그래밍의 기본 원리를 설명하는 것부터 시작합니다. 또한, 이 책은 주로 프로그래밍 경험이 거의 또는 전혀 없는 상태에서 *YDKJS*를 시작하고 자바스크립트의 렌즈를 통해 프로그래밍을 이해하는 데 도움이 되는 책을 찾고 있는 분들을 대상으로 합니다.
 
-Chapter 1 should be approached as a quick overview of the things you'll want to learn more about and practice to get *into programming*. There are also many other fantastic programming introduction resources that can help you dig into these topics further, and I encourage you to learn from them in addition to this chapter.
+1장은 프로그래밍을 시작하기 위해 더 많이 배우고 연습해야 할 내용을 간략하게 살펴보는 정도로 접근해야 합니다. 또한, 이러한 주제를 더 깊이 파고드는 데 도움이 되는 다른 훌륭한 프로그래밍 입문 자료도 많이 있으므로 이 장 외에도 이러한 자료를 참고하여 학습하는 것이 좋습니다.
 
-Once you feel comfortable with general programming basics, Chapter 2 will help guide you to a familiarity with JavaScript's flavor of programming. Chapter 2 introduces what JavaScript is about, but again, it's not a comprehensive guide -- that's what the rest of the *YDKJS* books are for!
+일반적인 프로그래밍 기초에 익숙해졌다면 2장에서 자바스크립트의 프로그래밍 방식에 익숙해지는 데 도움이 될 것입니다. 2장에서는 자바스크립트가 무엇인지 소개하지만, 이는 포괄적인 가이드는 아니며, 나머지 *YDKJS* 책에서 다룰 것 입니다!
 
-If you're already fairly comfortable with JavaScript, first check out Chapter 3 as a brief glimpse of what to expect from *YDKJS*, then jump right in!
+이미 자바스크립트에 익숙하다면 먼저 3장의 *YDKJS* 에서 기대할 수 있는 내용을 간략하게 확인한 다음 바로 시작하세요!
 
-## Code
+## 코드
 
 Let's start from the beginning.
 
